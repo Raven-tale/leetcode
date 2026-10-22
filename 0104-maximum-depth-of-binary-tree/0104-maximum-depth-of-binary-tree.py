@@ -9,11 +9,14 @@ class Solution:
         # If l and r no children
         if not root: return 0
         # Else find max of l, s
-        return max(self.maxDepth(root.left), self.maxDepth(root.right)) + 1
+        left = self.maxDepth(root.left)
+        right = self.maxDepth(root.right)
+        return max(left, right) + 1
         """
         root can be None, is n == work
         Got algorithm, tree traversal based on max n
         Optimisations:
-        See if it is == that is slow
-        Check if it is else that is slow
+        == is slow
+        Else not slow
+        Trying moving recursion calls outside max function
         """
