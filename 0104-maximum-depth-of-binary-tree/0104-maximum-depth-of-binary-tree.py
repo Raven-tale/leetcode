@@ -19,4 +19,5 @@ class Solution:
         Trying moving recursion calls outside max function
         Actually slower to move recursion calls outside
         Maybe is because python is a slow language?
+        There is significant runtime variation, from 0 - 5 ms
         """
