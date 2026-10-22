@@ -9,7 +9,11 @@ class Solution:
         # If l and r no children
         if not root: return 0
         # Else find max of l, s
-        else: return max(self.maxDepth(root.left), self.maxDepth(root.right)) + 1
+        return max(self.maxDepth(root.left), self.maxDepth(root.right)) + 1
         """
-        Trying to optimise, see if it is comparison that is slow
+        root can be None, is n == work
+        Got algorithm, tree traversal based on max n
+        Optimisations:
+        See if it is == that is slow
+        Check if it is else that is slow
         """
