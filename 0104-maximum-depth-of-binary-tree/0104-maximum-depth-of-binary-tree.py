@@ -9,9 +9,7 @@ class Solution:
         # If l and r no children
         if not root: return 0
         # Else find max of l, s
-        left = self.maxDepth(root.left)
-        right = self.maxDepth(root.right)
-        return max(left, right) + 1
+        return max(self.maxDepth(root.left), self.maxDepth(root.right)) + 1
         """
         root can be None, is n == work
         Got algorithm, tree traversal based on max n
@@ -19,4 +17,6 @@ class Solution:
         == is slow
         Else not slow
         Trying moving recursion calls outside max function
+        Actually slower to move recursion calls outside
+        Maybe is because python is a slow language?
         """
