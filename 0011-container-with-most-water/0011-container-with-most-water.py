@@ -15,5 +15,5 @@ class Solution:
 Saw motivation by writing the inequality for incrementing
 Missed that we greedily move the lower of value l, r
 To try and increase the area
-Max is slower than if/else comparison
+Max is slower than if/else comparison marginally
 """
