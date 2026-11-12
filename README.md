@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Raven-tale/leetcode/tree/master/0011-container-with-most-water) |
 | [0704-binary-search](https://github.com/Raven-tale/leetcode/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -36,5 +37,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Raven-tale/leetcode/tree/master/0011-container-with-most-water) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Raven-tale/leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Raven-tale/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
