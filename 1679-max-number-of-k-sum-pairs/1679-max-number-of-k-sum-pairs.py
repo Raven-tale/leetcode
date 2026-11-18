@@ -17,4 +17,6 @@ class Solution:
         """
         Think solution is sort then two pointers
         Does work but is too slow...
+        No need to reset l and r entirely cos sorted
+        Barely works haha
         """
