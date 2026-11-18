@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Raven-tale/leetcode/tree/master/0011-container-with-most-water) |
 | [0704-binary-search](https://github.com/Raven-tale/leetcode/tree/master/0704-binary-search) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Raven-tale/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -44,8 +45,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Raven-tale/leetcode/tree/master/0011-container-with-most-water) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Raven-tale/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Interactive
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Raven-tale/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Hash Table
+|  |
+| ------- |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Raven-tale/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+## Sorting
+|  |
+| ------- |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Raven-tale/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 <!---LeetCode Topics End-->
